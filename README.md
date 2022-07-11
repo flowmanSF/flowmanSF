@@ -1,6 +1,6 @@
 ### Hey, I’m Ahmed Sadeq!
 
-My dream is to be a software engineer, I love Linux and cats and I'm currently based in Germany.
+My dream is to become a software engineer, I love Linux and cats and I'm currently based in Germany.
 
 About me:
 - I'm presently working on diverse projects to improve my profile.
