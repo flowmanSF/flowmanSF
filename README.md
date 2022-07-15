@@ -4,5 +4,5 @@ My dream is to become a software engineer, I love Linux and cats and I'm current
 
 About me:
 - I'm presently working on diverse projects to improve my profile.
-- My favourite programming languages, in no particular order, are C++, Rust, Python and TypeScript.
+- My favourite programming languages, in no particular order, are C++, Rust, C# and TypeScript.
 - I spend a tremendous time on my computer playing video games. Some of my favourite games are The Witcher 3 and Grand Theft Auto V.
